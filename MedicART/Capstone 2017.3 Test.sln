@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone 2017.3 Test", "Capstone 2017.3 Test.csproj", "{CBA05E4F-47CB-41DA-33A4-0A10FCA4F987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone 2017.3 Test.Editor", "Capstone 2017.3 Test.Editor.csproj", "{302A7056-65E2-D13B-C3E5-34E8E1BC4BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA05E4F-47CB-41DA-33A4-0A10FCA4F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA05E4F-47CB-41DA-33A4-0A10FCA4F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA05E4F-47CB-41DA-33A4-0A10FCA4F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA05E4F-47CB-41DA-33A4-0A10FCA4F987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302A7056-65E2-D13B-C3E5-34E8E1BC4BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302A7056-65E2-D13B-C3E5-34E8E1BC4BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302A7056-65E2-D13B-C3E5-34E8E1BC4BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302A7056-65E2-D13B-C3E5-34E8E1BC4BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

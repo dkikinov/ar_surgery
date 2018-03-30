@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: ba2bc8dbbc7cfc74da8c65264fa8a97f
+timeCreated: 1510927881
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: amygdala01
+    100002: amygdala02
+    100004: anterior_cerebral_artery
+    100006: anterior_communicating_artery
+    100008: anterior_communicating_artery01
+    100010: anterior_interior_cerebellar_artery
+    100012: anterior_spinal_artery
+    100014: basalganglier01
+    100016: basalganglier03
+    100018: basilar_artery
+    100020: Box
+    100022: //RootNode
+    100024: brain_stem_01
+    100026: brain_stem_02
+    100028: CameraPreset
+    100030: colliculi_inferiores
+    100032: colliculi_inferiores01
+    100034: colliculi_sup
+    100036: colliculi_sup01
+    100038: Cone
+    100040: corpus_pineale
+    100042: crus__pedunculus_cerebri_01
+    100044: crus__pedunculus_cerebri_02
+    100046: decussatio_pyramidum
+    100048: decussatio_pyramidum01
+    100050: hypothalamus
+    100052: inner_tube
+    100054: inner_tube01
+    100056: internal_carotid_artery
+    100058: lenticulostraite
+    100060: middle_cerebral_artery
+    100062: Model
+    100064: Model1
+    100066: n__tigeminus
+    100068: n__tigeminus01
+    100070: nerv__01
+    100072: nerv__02
+    100074: nerv__aabducens
+    100076: nerv__aabducens01
+    100078: nerv__accessorius
+    100080: nerv__accessorius01
+    100082: nerv__faciallis
+    100084: nerv__faciallis01
+    100086: nerv__glossopharyngeus
+    100088: nerv__glossopharyngeus01
+    100090: nerv__hypoglossus
+    100092: nerv__hypoglossus01
+    100094: nerv__intermedius
+    100096: nerv__intermedius01
+    100098: nerv__trochlearis
+    100100: nerv__trochlearis01
+    100102: nerv__vagus
+    100104: nerv__vagus01
+    100106: nerv__vestibulocochlearis
+    100108: nerv__vestibulocochlearis01
+    100110: oliva01
+    100112: oliva02
+    100114: pedunculus_cerebellaris_medius01
+    100116: pedunculus_cerebellaris_medius02
+    100118: pons01
+    100120: pons02
+    100122: posterior_cerebral_artery
+    100124: posterior_communicating_artery
+    100126: posterior_inferior_cerebellar
+    100128: posterior_inferior_cerebellar01
+    100130: posterior_spinal_artery
+    100132: PSY_1010_Build_A_Brain
+    100134: putamin01
+    100136: putamin02
+    100138: pyramis01
+    100140: pyramis02
+    100142: slice_stem
+    100144: Sphere
+    100146: superior_cerebellar_artery
+    100148: Tetrahedron
+    100150: Tetrahedron1
+    100152: thalamus01
+    100154: thalamus02
+    100156: TorusKnot
+    100158: TorusKnot1
+    100160: veins
+    100162: vertebral_artery
+    400000: amygdala01
+    400002: amygdala02
+    400004: anterior_cerebral_artery
+    400006: anterior_communicating_artery
+    400008: anterior_communicating_artery01
+    400010: anterior_interior_cerebellar_artery
+    400012: anterior_spinal_artery
+    400014: basalganglier01
+    400016: basalganglier03
+    400018: basilar_artery
+    400020: Box
+    400022: //RootNode
+    400024: brain_stem_01
+    400026: brain_stem_02
+    400028: CameraPreset
+    400030: colliculi_inferiores
+    400032: colliculi_inferiores01
+    400034: colliculi_sup
+    400036: colliculi_sup01
+    400038: Cone
+    400040: corpus_pineale
+    400042: crus__pedunculus_cerebri_01
+    400044: crus__pedunculus_cerebri_02
+    400046: decussatio_pyramidum
+    400048: decussatio_pyramidum01
+    400050: hypothalamus
+    400052: inner_tube
+    400054: inner_tube01
+    400056: internal_carotid_artery
+    400058: lenticulostraite
+    400060: middle_cerebral_artery
+    400062: Model
+    400064: Model1
+    400066: n__tigeminus
+    400068: n__tigeminus01
+    400070: nerv__01
+    400072: nerv__02
+    400074: nerv__aabducens
+    400076: nerv__aabducens01
+    400078: nerv__accessorius
+    400080: nerv__accessorius01
+    400082: nerv__faciallis
+    400084: nerv__faciallis01
+    400086: nerv__glossopharyngeus
+    400088: nerv__glossopharyngeus01
+    400090: nerv__hypoglossus
+    400092: nerv__hypoglossus01
+    400094: nerv__intermedius
+    400096: nerv__intermedius01
+    400098: nerv__trochlearis
+    400100: nerv__trochlearis01
+    400102: nerv__vagus
+    400104: nerv__vagus01
+    400106: nerv__vestibulocochlearis
+    400108: nerv__vestibulocochlearis01
+    400110: oliva01
+    400112: oliva02
+    400114: pedunculus_cerebellaris_medius01
+    400116: pedunculus_cerebellaris_medius02
+    400118: pons01
+    400120: pons02
+    400122: posterior_cerebral_artery
+    400124: posterior_communicating_artery
+    400126: posterior_inferior_cerebellar
+    400128: posterior_inferior_cerebellar01
+    400130: posterior_spinal_artery
+    400132: PSY_1010_Build_A_Brain
+    400134: putamin01
+    400136: putamin02
+    400138: pyramis01
+    400140: pyramis02
+    400142: slice_stem
+    400144: Sphere
+    400146: superior_cerebellar_artery
+    400148: Tetrahedron
+    400150: Tetrahedron1
+    400152: thalamus01
+    400154: thalamus02
+    400156: TorusKnot
+    400158: TorusKnot1
+    400160: veins
+    400162: vertebral_artery
+    2300000: amygdala01
+    2300002: amygdala02
+    2300004: anterior_cerebral_artery
+    2300006: anterior_communicating_artery
+    2300008: anterior_communicating_artery01
+    2300010: anterior_interior_cerebellar_artery
+    2300012: anterior_spinal_artery
+    2300014: basalganglier01
+    2300016: basalganglier03
+    2300018: basilar_artery
+    2300020: Box
+    2300022: brain_stem_01
+    2300024: brain_stem_02
+    2300026: colliculi_inferiores
+    2300028: colliculi_inferiores01
+    2300030: colliculi_sup
+    2300032: colliculi_sup01
+    2300034: Cone
+    2300036: corpus_pineale
+    2300038: crus__pedunculus_cerebri_01
+    2300040: crus__pedunculus_cerebri_02
+    2300042: decussatio_pyramidum
+    2300044: decussatio_pyramidum01
+    2300046: hypothalamus
+    2300048: inner_tube
+    2300050: inner_tube01
+    2300052: internal_carotid_artery
+    2300054: lenticulostraite
+    2300056: middle_cerebral_artery
+    2300058: n__tigeminus
+    2300060: n__tigeminus01
+    2300062: nerv__01
+    2300064: nerv__02
+    2300066: nerv__aabducens
+    2300068: nerv__aabducens01
+    2300070: nerv__accessorius
+    2300072: nerv__accessorius01
+    2300074: nerv__faciallis
+    2300076: nerv__faciallis01
+    2300078: nerv__glossopharyngeus
+    2300080: nerv__glossopharyngeus01
+    2300082: nerv__hypoglossus
+    2300084: nerv__hypoglossus01
+    2300086: nerv__intermedius
+    2300088: nerv__intermedius01
+    2300090: nerv__trochlearis
+    2300092: nerv__trochlearis01
+    2300094: nerv__vagus
+    2300096: nerv__vagus01
+    2300098: nerv__vestibulocochlearis
+    2300100: nerv__vestibulocochlearis01
+    2300102: oliva01
+    2300104: oliva02
+    2300106: pedunculus_cerebellaris_medius01
+    2300108: pedunculus_cerebellaris_medius02
+    2300110: pons01
+    2300112: pons02
+    2300114: posterior_cerebral_artery
+    2300116: posterior_communicating_artery
+    2300118: posterior_inferior_cerebellar
+    2300120: posterior_inferior_cerebellar01
+    2300122: posterior_spinal_artery
+    2300124: PSY_1010_Build_A_Brain
+    2300126: putamin01
+    2300128: putamin02
+    2300130: pyramis01
+    2300132: pyramis02
+    2300134: slice_stem
+    2300136: Sphere
+    2300138: superior_cerebellar_artery
+    2300140: Tetrahedron
+    2300142: Tetrahedron1
+    2300144: thalamus01
+    2300146: thalamus02
+    2300148: TorusKnot
+    2300150: TorusKnot1
+    2300152: veins
+    2300154: vertebral_artery
+    3300000: amygdala01
+    3300002: amygdala02
+    3300004: anterior_cerebral_artery
+    3300006: anterior_communicating_artery
+    3300008: anterior_communicating_artery01
+    3300010: anterior_interior_cerebellar_artery
+    3300012: anterior_spinal_artery
+    3300014: basalganglier01
+    3300016: basalganglier03
+    3300018: basilar_artery
+    3300020: Box
+    3300022: brain_stem_01
+    3300024: brain_stem_02
+    3300026: colliculi_inferiores
+    3300028: colliculi_inferiores01
+    3300030: colliculi_sup
+    3300032: colliculi_sup01
+    3300034: Cone
+    3300036: corpus_pineale
+    3300038: crus__pedunculus_cerebri_01
+    3300040: crus__pedunculus_cerebri_02
+    3300042: decussatio_pyramidum
+    3300044: decussatio_pyramidum01
+    3300046: hypothalamus
+    3300048: inner_tube
+    3300050: inner_tube01
+    3300052: internal_carotid_artery
+    3300054: lenticulostraite
+    3300056: middle_cerebral_artery
+    3300058: n__tigeminus
+    3300060: n__tigeminus01
+    3300062: nerv__01
+    3300064: nerv__02
+    3300066: nerv__aabducens
+    3300068: nerv__aabducens01
+    3300070: nerv__accessorius
+    3300072: nerv__accessorius01
+    3300074: nerv__faciallis
+    3300076: nerv__faciallis01
+    3300078: nerv__glossopharyngeus
+    3300080: nerv__glossopharyngeus01
+    3300082: nerv__hypoglossus
+    3300084: nerv__hypoglossus01
+    3300086: nerv__intermedius
+    3300088: nerv__intermedius01
+    3300090: nerv__trochlearis
+    3300092: nerv__trochlearis01
+    3300094: nerv__vagus
+    3300096: nerv__vagus01
+    3300098: nerv__vestibulocochlearis
+    3300100: nerv__vestibulocochlearis01
+    3300102: oliva01
+    3300104: oliva02
+    3300106: pedunculus_cerebellaris_medius01
+    3300108: pedunculus_cerebellaris_medius02
+    3300110: pons01
+    3300112: pons02
+    3300114: posterior_cerebral_artery
+    3300116: posterior_communicating_artery
+    3300118: posterior_inferior_cerebellar
+    3300120: posterior_inferior_cerebellar01
+    3300122: posterior_spinal_artery
+    3300124: PSY_1010_Build_A_Brain
+    3300126: putamin01
+    3300128: putamin02
+    3300130: pyramis01
+    3300132: pyramis02
+    3300134: slice_stem
+    3300136: Sphere
+    3300138: superior_cerebellar_artery
+    3300140: Tetrahedron
+    3300142: Tetrahedron1
+    3300144: thalamus01
+    3300146: thalamus02
+    3300148: TorusKnot
+    3300150: TorusKnot1
+    3300152: veins
+    3300154: vertebral_artery
+    4300000: Sphere
+    4300002: pons02
+    4300004: n__tigeminus
+    4300006: anterior_cerebral_artery
+    4300008: nerv__glossopharyngeus
+    4300010: colliculi_inferiores01
+    4300012: superior_cerebellar_artery
+    4300014: amygdala02
+    4300016: anterior_spinal_artery
+    4300018: inner_tube
+    4300020: nerv__aabducens
+    4300022: lenticulostraite
+    4300024: PSY_1010_Build_A_Brain
+    4300026: pyramis02
+    4300028: brain_stem_02
+    4300030: nerv__glossopharyngeus01
+    4300032: putamin02
+    4300034: anterior_communicating_artery01
+    4300036: decussatio_pyramidum01
+    4300038: nerv__hypoglossus01
+    4300040: Box
+    4300042: nerv__vagus
+    4300044: colliculi_sup
+    4300046: pyramis01
+    4300048: pedunculus_cerebellaris_medius01
+    4300050: nerv__vestibulocochlearis
+    4300052: oliva02
+    4300054: posterior_inferior_cerebellar
+    4300056: Cone
+    4300058: inner_tube01
+    4300060: nerv__intermedius
+    4300062: internal_carotid_artery
+    4300064: anterior_interior_cerebellar_artery
+    4300066: nerv__vestibulocochlearis01
+    4300068: nerv__intermedius01
+    4300070: thalamus01
+    4300072: Tetrahedron
+    4300074: vertebral_artery
+    4300076: nerv__accessorius01
+    4300078: n__tigeminus01
+    4300080: anterior_communicating_artery
+    4300082: putamin01
+    4300084: nerv__vagus01
+    4300086: slice_stem
+    4300088: amygdala01
+    4300090: nerv__faciallis01
+    4300092: colliculi_sup01
+    4300094: nerv__aabducens01
+    4300096: posterior_cerebral_artery
+    4300098: basalganglier01
+    4300100: oliva01
+    4300102: decussatio_pyramidum
+    4300104: TorusKnot1
+    4300106: posterior_communicating_artery
+    4300108: basalganglier03
+    4300110: thalamus02
+    4300112: corpus_pineale
+    4300114: nerv__trochlearis01
+    4300116: middle_cerebral_artery
+    4300118: basilar_artery
+    4300120: crus__pedunculus_cerebri_01
+    4300122: pons01
+    4300124: pedunculus_cerebellaris_medius02
+    4300126: nerv__02
+    4300128: posterior_inferior_cerebellar01
+    4300130: posterior_spinal_artery
+    4300132: nerv__hypoglossus
+    4300134: nerv__01
+    4300136: nerv__trochlearis
+    4300138: colliculi_inferiores
+    4300140: Tetrahedron1
+    4300142: nerv__faciallis
+    4300144: hypothalamus
+    4300146: nerv__accessorius
+    4300148: veins
+    4300150: brain_stem_01
+    4300152: TorusKnot
+    4300154: crus__pedunculus_cerebri_02
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 102820
+    second: {fileID: 2100000, guid: 89ad3a90b6195704f996a8ff326b7ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 104e14
+    second: {fileID: 2100000, guid: 43f35e2ce3746514586eb44964f9f878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1323df
+    second: {fileID: 2100000, guid: 4e2a7215993d9764d9e70072edcafd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 154390
+    second: {fileID: 2100000, guid: 7490f5856d31a8e4db22d9924058cead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 174960
+    second: {fileID: 2100000, guid: eeac5ad6b381bea46b1339312377def0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19302d
+    second: {fileID: 2100000, guid: 20061c6daa5d382408bc805129e95468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 198f01
+    second: {fileID: 2100000, guid: 27aa38028313318478ddd708ec9d48c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1e4787
+    second: {fileID: 2100000, guid: 7c86c2173d896f149a5c722f8e0e2af2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1e96bb
+    second: {fileID: 2100000, guid: d79e3ba90235a26439755a922b402223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 205878
+    second: {fileID: 2100000, guid: 14a11498a6dbb294b93b922421dafb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21dec1
+    second: {fileID: 2100000, guid: 01e29d3684c83c74287569e8b17e3382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2208b9
+    second: {fileID: 2100000, guid: 1e82bf639fe2e0843a095e6c03187ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 235741
+    second: {fileID: 2100000, guid: 0e61b46a32f29704f894b38521566d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 239b72
+    second: {fileID: 2100000, guid: 76c78ec5e18f5fd4ca4eef857ea67d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24e435
+    second: {fileID: 2100000, guid: 2208b16b97b4af64db8f21cf477e0ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27ebc2
+    second: {fileID: 2100000, guid: c36b77d08d742734e8b8361ab2181270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 29cdad
+    second: {fileID: 2100000, guid: c179991ae9bb8d246bd7eab57bea18b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2f2101
+    second: {fileID: 2100000, guid: 8631427cde121784e89204f6fad7a544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 31796d
+    second: {fileID: 2100000, guid: 93452143d7f9d17479e5b5cba4a31b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3ad84b
+    second: {fileID: 2100000, guid: b81b67aafcaead5499a8dc7c1767a0e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3bf
+    second: {fileID: 2100000, guid: c35a3a48ae856544a97796245103b493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3d03a5
+    second: {fileID: 2100000, guid: ed14729d8ea403b4a8d4f9723c115adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4c28a0
+    second: {fileID: 2100000, guid: 312443e8fa1cad24f8659393e046a29e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4f590c
+    second: {fileID: 2100000, guid: 26c768f93fb5b8f40bb55fae3850c633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5439a4
+    second: {fileID: 2100000, guid: 56041c03764de5946ad30f738c2e81d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 56a839
+    second: {fileID: 2100000, guid: 9da877dc2424db642b1288098f8bf0f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5af027
+    second: {fileID: 2100000, guid: c93eaddf91e725c40b4390b7d87deb86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 67ab93
+    second: {fileID: 2100000, guid: 3100e187654322d40a25a6bfff83675d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 754d7e
+    second: {fileID: 2100000, guid: bafc893137a673d449e41f2f7ca1c42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 778ebb
+    second: {fileID: 2100000, guid: 28edb5630b3642e4b9c70cd5c29052a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 795188
+    second: {fileID: 2100000, guid: bd0ef0b2ffde01f44910378c23e779ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 79831
+    second: {fileID: 2100000, guid: 0d4b90237862b094fbe3119a2e6191fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7b9cde
+    second: {fileID: 2100000, guid: a6fb1da6873260b46bb853edc6600e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7d0af5
+    second: {fileID: 2100000, guid: ed5e664746ce90040bb3c49d913542ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 80daa2
+    second: {fileID: 2100000, guid: ceabf024016a4654b88a08ba3d89376d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8707ad
+    second: {fileID: 2100000, guid: b003b6060d109424ab29179100148c65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8b9f82
+    second: {fileID: 2100000, guid: 78e923b1358ba4643b2c1f618b3a7c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9216b7
+    second: {fileID: 2100000, guid: 0094d2a29a72ec64ba4e87fe7a4a820d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 92d710
+    second: {fileID: 2100000, guid: 2c33eccf648a1d349b7b3b535d6b66ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9d3cc
+    second: {fileID: 2100000, guid: 57af4b7674f4fa845957775fb7674774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9e425e
+    second: {fileID: 2100000, guid: 18f9fb2538b137842bceab7633ca3309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9f90f1
+    second: {fileID: 2100000, guid: ad12911f1e766354cbd6e9e1a507fef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Physical
+    second: {fileID: 2100000, guid: 43e4730a97c4dac42b03d0c7ac16de3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a16ae4
+    second: {fileID: 2100000, guid: cfb0fdac537145541991a2a609ba7436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a2a47c
+    second: {fileID: 2100000, guid: a93ef5d1df973da4caa80b00b76758d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a2e915
+    second: {fileID: 2100000, guid: 282e56b4ef45cd24c87f28bd0a42da42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a3f479
+    second: {fileID: 2100000, guid: dbdf17afd694b904a80bf4936b6fe4c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ad3913
+    second: {fileID: 2100000, guid: 09b3033a3c80892469dc2e622061d6e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aec785
+    second: {fileID: 2100000, guid: e903d3326d6ba094086714f2b1b2330b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b0903f
+    second: {fileID: 2100000, guid: d6c4e4dcfe7d5a342b96b1b9f7193728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b0b0b0
+    second: {fileID: 2100000, guid: db517505b9f554242aa29891b43a396f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b1a5e1
+    second: {fileID: 2100000, guid: 1046414859e1ac04ca585e56d1ba669e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b99b9d
+    second: {fileID: 2100000, guid: c259099cdf89fb548a9357cd908db187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bf6a28
+    second: {fileID: 2100000, guid: 953a244ab23e09f4bb77d3ad2304a2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c0a6b5
+    second: {fileID: 2100000, guid: 616099f208876ef45813d86930c409c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c61d33
+    second: {fileID: 2100000, guid: 64f66f7a4e2371341bbc91f792627f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cc4593
+    second: {fileID: 2100000, guid: 645a70c84cf39824ab06051dd4578fb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cf2980
+    second: {fileID: 2100000, guid: a9ef536413f90594e98e0cc9eec7ac67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d30fcf
+    second: {fileID: 2100000, guid: 9d4de01634ce5a34d86ad57542bc1ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d33689
+    second: {fileID: 2100000, guid: 10741523602265349ac92d2045e02369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d58e4a
+    second: {fileID: 2100000, guid: 1ac5503f00372254d8e2a906403d894d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d6385f
+    second: {fileID: 2100000, guid: fd8caabf29d8e32449081a7323b7aec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d6f391
+    second: {fileID: 2100000, guid: 689ff4ca401109f4b89e1f1ee0a072aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d912b
+    second: {fileID: 2100000, guid: 676fa544484f77940abbfc136be4f663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dc5d5c
+    second: {fileID: 2100000, guid: 1d99aba9bfde9ad429b83b1befa6beec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dd227e
+    second: {fileID: 2100000, guid: deddc15fcd02a4e48858ae5bc8bb17fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ded1cb
+    second: {fileID: 2100000, guid: eade6cb8d2038db44aa2c8195688ddf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: e9949a
+    second: {fileID: 2100000, guid: 141ceadd3ae41394b9dd5b7ff56c4942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f0a8b2
+    second: {fileID: 2100000, guid: ec17ecaa5763a52429b4c5d1ef95a0fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f6110a
+    second: {fileID: 2100000, guid: 7c09b3710c5fadd4d8e94edfb9e66632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fb47f0
+    second: {fileID: 2100000, guid: c2aa9764ad0973d4286f8b6f7a52a6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fc6b61
+    second: {fileID: 2100000, guid: 1e34b5aadc944ac4da87f1ad45d73c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ffe8
+    second: {fileID: 2100000, guid: 587297696f1e22e4ab8eabb5415af2c4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

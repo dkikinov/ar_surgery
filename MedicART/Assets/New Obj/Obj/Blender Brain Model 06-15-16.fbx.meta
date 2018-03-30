@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: aa1050569204dce41ad55d79005ba44d
+timeCreated: 1467915659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 3rd Ventricle
+    100002: 4th Ventricle
+    100004: A_ASA
+    100006: A_Basilar_Artery
+    100008: A_L_ACA
+    100010: A_L_AICA
+    100012: A_L_Ascending_Pharyngeal_A_R_Ascending_Pharyngeal
+    100014: A_L_External_Carotid_A_R_External_Carotid
+    100016: A_L_Facial_Artery_A_R_Facial_Artery
+    100018: A_L_Internal_Carotid
+    100020: A_L_Labyrinthine
+    100022: A_L_Maxillary_Artery_A_R_Maxillary_Artery
+    100024: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart0
+    100026: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart1
+    100028: A_L_MCA
+    100030: A_L_Occipital_Artery_A_R_Occipital_Artery
+    100032: A_L_Ophthalmic_Artery
+    100034: A_L_PCA
+    100036: A_L_PICA
+    100038: A_L_Pontine_Artery
+    100040: A_L_Posterior_Auricular_Artery
+    100042: A_L_Posterior_Communicating_Artery
+    100044: A_L_PSA
+    100046: A_L_Superficial_Temporal_Artery
+    100048: A_L_Superior_Cerebellar
+    100050: A_L_Superior_Thyroid_Artery
+    100052: A_L_Vertebral_Artery
+    100054: A_R_ACA
+    100056: A_R_AICA
+    100058: A_R_Ascending_Pharyngeal
+    100060: A_R_External_Carotid
+    100062: A_R_Facial_Artery
+    100064: A_R_Internal_Carotid
+    100066: A_R_Labyrinthine
+    100068: A_R_Lingual_Artery
+    100070: A_R_Maxillary_Artery
+    100072: A_R_Maxillary_Artery_MeshPart0
+    100074: A_R_Maxillary_Artery_MeshPart1
+    100076: A_R_MCA
+    100078: A_R_Occipital_Artery
+    100080: A_R_Ophthalmic_Artery
+    100082: A_R_PCA
+    100084: A_R_PICA
+    100086: A_R_Pontine_Artery
+    100088: A_R_Posterior_Auricular_Artery
+    100090: A_R_Posterior_Communicating_Artery
+    100092: A_R_Posterior_Meningeal_Branch
+    100094: A_R_PSA
+    100096: A_R_Superficial_Temporal_Artery
+    100098: A_R_Superior_Cerebellar
+    100100: A_R_Superior_Thyroid_Artery
+    100102: A_R_Vertebral_Artery
+    100104: //RootNode
+    100106: Brainstem
+    100108: Caudate Nucleus
+    100110: Cavernous Sinus
+    100112: Central Canal
+    100114: Cerebellar Peduncles
+    100116: Cerebellum- Vermis
+    100118: Cerebellum-White-Matter
+    100120: Cerebellum-White-Matter_MeshPart0
+    100122: Cerebellum-White-Matter_MeshPart1
+    100124: Cerebral Aqueduct
+    100126: Confluence of SInuses
+    100128: Corpus Callosum
+    100130: Corpus Callosum_Body
+    100132: Corpus Callosum_Genu
+    100134: Corpus Callosum_Splenium
+    100136: DorsalCochlearNuc.000
+    100138: DorsalCochlearNucleus
+    100140: EW Nucleus
+    100142: Fornix
+    100144: Globus Pallidus
+    100146: Hippocampus
+    100148: Hypothalamus
+    100150: Inf. Vestib Nucle.000
+    100152: Inf. Vestib Nucleus
+    100154: Inferior Colliculi
+    100156: Internal Capsule
+    100158: L Cerebellum- Cortex
+    100160: L_Brocas
+    100162: L_Central_Sulcus
+    100164: L_Cingulate_Gyrus
+    100166: L_Cortex_textured
+    100168: L_Frontal_Eye_Fields
+    100170: L_Frontal_Lobe
+    100172: L_Lateral_Sulcus
+    100174: L_Occipital_Lobe
+    100176: L_Parietal_Lobe
+    100178: L_Parietoocipital_Sulcus
+    100180: L_Postcentral_Gyrus
+    100182: L_Precentral_Gyrus
+    100184: L_Premotor_Cortex
+    100186: L_SMA
+    100188: L_Temporal_Lobe
+    100190: L_Wernicke's_Area
+    100192: Lateral Ventricles
+    100194: Lateral Ventricles_FH
+    100196: Lateral Ventricles_OH
+    100198: Lateral Ventricles_Se
+    100200: Lateral Ventricles_TH
+    100202: Left Trigeminal N\
+    100204: Med Vestib Nucleus
+    100206: N_CNI
+    100208: N_CNII
+    100210: N_L_CN_VI
+    100212: N_L_CNIII
+    100214: N_L_CNIV
+    100216: N_L_CNIX
+    100218: N_L_CNV
+    100220: N_L_CNVII
+    100222: N_L_CNVIII
+    100224: N_L_CNX
+    100226: N_L_CNXI
+    100228: N_L_CNXII
+    100230: N_L_Short_Ciliary_Ganglion
+    100232: N_R_CN_VI
+    100234: N_R_CNIII
+    100236: N_R_CNIV
+    100238: N_R_CNIX
+    100240: N_R_CNV
+    100242: N_R_CNVII
+    100244: N_R_CNVIII
+    100246: N_R_CNX
+    100248: N_R_CNXI
+    100250: N_R_CNXII
+    100252: N_R_Short_Ciliary_Ganglion
+    100254: Nucleus Prepositus
+    100256: Oculomotor Nucleus
+    100258: Putamen
+    100260: R Cerebellum-Cortex
+    100262: R_Central_Sulcus
+    100264: R_Cingulate_Gyrus
+    100266: R_Frontal_Eye_Fields
+    100268: R_Frontal_Lobe
+    100270: R_Lateral_Sulcus
+    100272: R_Occipital_Lobe
+    100274: R_Parietal_Lobe
+    100276: R_Parietoocipital_Sulcus
+    100278: R_Postcentral_Gyrus
+    100280: R_Precentral_Gyrus
+    100282: R_Premotor_Cortex
+    100284: R_SMA
+    100286: R_Temporal_Lobe
+    100288: Red Nucleus
+    100290: S_Basilar_Sinuses
+    100292: S_Inferior_Saggital_Sinus
+    100294: S_L_Cavernous_Sinus
+    100296: S_L_Inferior_Petrosal_Sinus
+    100298: S_L_Occipital_Sinus
+    100300: S_L_Sphenoparietal_sinus
+    100302: S_L_Superior_Petrosal_Sinus
+    100304: S_R_Cavernous_Sinus
+    100306: S_R_Inferior_Petrosal_Sinus
+    100308: S_R_Occipital_Sinus
+    100310: S_R_Sphenoparietal_sinus
+    100312: S_R_Superior_Petrosal_Sinus
+    100314: S_Superior_Saggital_Sinus
+    100316: Skull
+    100318: Spinal Cord Textured
+    100320: Spinal Nuclue CNV
+    100322: Sup Vestib Nucleus
+    100324: Superior Colliculi
+    100326: Superior Longit Fasic
+    100328: Thalamus
+    100330: V_L_Internal_Jugular_Vein
+    100332: V_L_Middle_Meningeal_Vein
+    100334: V_L_Superior_Ophthalmic_Vein
+    100336: V_R_Internal_Jugular_Vein
+    100338: V_R_Middle_Meningeal_Vein
+    100340: V_Superior_Ophthalmic_Vein
+    100342: Vent Cochlear Nucleus
+    100344: White Matter
+    400000: 3rd Ventricle
+    400002: 4th Ventricle
+    400004: A_ASA
+    400006: A_Basilar_Artery
+    400008: A_L_ACA
+    400010: A_L_AICA
+    400012: A_L_Ascending_Pharyngeal_A_R_Ascending_Pharyngeal
+    400014: A_L_External_Carotid_A_R_External_Carotid
+    400016: A_L_Facial_Artery_A_R_Facial_Artery
+    400018: A_L_Internal_Carotid
+    400020: A_L_Labyrinthine
+    400022: A_L_Maxillary_Artery_A_R_Maxillary_Artery
+    400024: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart0
+    400026: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart1
+    400028: A_L_MCA
+    400030: A_L_Occipital_Artery_A_R_Occipital_Artery
+    400032: A_L_Ophthalmic_Artery
+    400034: A_L_PCA
+    400036: A_L_PICA
+    400038: A_L_Pontine_Artery
+    400040: A_L_Posterior_Auricular_Artery
+    400042: A_L_Posterior_Communicating_Artery
+    400044: A_L_PSA
+    400046: A_L_Superficial_Temporal_Artery
+    400048: A_L_Superior_Cerebellar
+    400050: A_L_Superior_Thyroid_Artery
+    400052: A_L_Vertebral_Artery
+    400054: A_R_ACA
+    400056: A_R_AICA
+    400058: A_R_Ascending_Pharyngeal
+    400060: A_R_External_Carotid
+    400062: A_R_Facial_Artery
+    400064: A_R_Internal_Carotid
+    400066: A_R_Labyrinthine
+    400068: A_R_Lingual_Artery
+    400070: A_R_Maxillary_Artery
+    400072: A_R_Maxillary_Artery_MeshPart0
+    400074: A_R_Maxillary_Artery_MeshPart1
+    400076: A_R_MCA
+    400078: A_R_Occipital_Artery
+    400080: A_R_Ophthalmic_Artery
+    400082: A_R_PCA
+    400084: A_R_PICA
+    400086: A_R_Pontine_Artery
+    400088: A_R_Posterior_Auricular_Artery
+    400090: A_R_Posterior_Communicating_Artery
+    400092: A_R_Posterior_Meningeal_Branch
+    400094: A_R_PSA
+    400096: A_R_Superficial_Temporal_Artery
+    400098: A_R_Superior_Cerebellar
+    400100: A_R_Superior_Thyroid_Artery
+    400102: A_R_Vertebral_Artery
+    400104: //RootNode
+    400106: Brainstem
+    400108: Caudate Nucleus
+    400110: Cavernous Sinus
+    400112: Central Canal
+    400114: Cerebellar Peduncles
+    400116: Cerebellum- Vermis
+    400118: Cerebellum-White-Matter
+    400120: Cerebellum-White-Matter_MeshPart0
+    400122: Cerebellum-White-Matter_MeshPart1
+    400124: Cerebral Aqueduct
+    400126: Confluence of SInuses
+    400128: Corpus Callosum
+    400130: Corpus Callosum_Body
+    400132: Corpus Callosum_Genu
+    400134: Corpus Callosum_Splenium
+    400136: DorsalCochlearNuc.000
+    400138: DorsalCochlearNucleus
+    400140: EW Nucleus
+    400142: Fornix
+    400144: Globus Pallidus
+    400146: Hippocampus
+    400148: Hypothalamus
+    400150: Inf. Vestib Nucle.000
+    400152: Inf. Vestib Nucleus
+    400154: Inferior Colliculi
+    400156: Internal Capsule
+    400158: L Cerebellum- Cortex
+    400160: L_Brocas
+    400162: L_Central_Sulcus
+    400164: L_Cingulate_Gyrus
+    400166: L_Cortex_textured
+    400168: L_Frontal_Eye_Fields
+    400170: L_Frontal_Lobe
+    400172: L_Lateral_Sulcus
+    400174: L_Occipital_Lobe
+    400176: L_Parietal_Lobe
+    400178: L_Parietoocipital_Sulcus
+    400180: L_Postcentral_Gyrus
+    400182: L_Precentral_Gyrus
+    400184: L_Premotor_Cortex
+    400186: L_SMA
+    400188: L_Temporal_Lobe
+    400190: L_Wernicke's_Area
+    400192: Lateral Ventricles
+    400194: Lateral Ventricles_FH
+    400196: Lateral Ventricles_OH
+    400198: Lateral Ventricles_Se
+    400200: Lateral Ventricles_TH
+    400202: Left Trigeminal N\
+    400204: Med Vestib Nucleus
+    400206: N_CNI
+    400208: N_CNII
+    400210: N_L_CN_VI
+    400212: N_L_CNIII
+    400214: N_L_CNIV
+    400216: N_L_CNIX
+    400218: N_L_CNV
+    400220: N_L_CNVII
+    400222: N_L_CNVIII
+    400224: N_L_CNX
+    400226: N_L_CNXI
+    400228: N_L_CNXII
+    400230: N_L_Short_Ciliary_Ganglion
+    400232: N_R_CN_VI
+    400234: N_R_CNIII
+    400236: N_R_CNIV
+    400238: N_R_CNIX
+    400240: N_R_CNV
+    400242: N_R_CNVII
+    400244: N_R_CNVIII
+    400246: N_R_CNX
+    400248: N_R_CNXI
+    400250: N_R_CNXII
+    400252: N_R_Short_Ciliary_Ganglion
+    400254: Nucleus Prepositus
+    400256: Oculomotor Nucleus
+    400258: Putamen
+    400260: R Cerebellum-Cortex
+    400262: R_Central_Sulcus
+    400264: R_Cingulate_Gyrus
+    400266: R_Frontal_Eye_Fields
+    400268: R_Frontal_Lobe
+    400270: R_Lateral_Sulcus
+    400272: R_Occipital_Lobe
+    400274: R_Parietal_Lobe
+    400276: R_Parietoocipital_Sulcus
+    400278: R_Postcentral_Gyrus
+    400280: R_Precentral_Gyrus
+    400282: R_Premotor_Cortex
+    400284: R_SMA
+    400286: R_Temporal_Lobe
+    400288: Red Nucleus
+    400290: S_Basilar_Sinuses
+    400292: S_Inferior_Saggital_Sinus
+    400294: S_L_Cavernous_Sinus
+    400296: S_L_Inferior_Petrosal_Sinus
+    400298: S_L_Occipital_Sinus
+    400300: S_L_Sphenoparietal_sinus
+    400302: S_L_Superior_Petrosal_Sinus
+    400304: S_R_Cavernous_Sinus
+    400306: S_R_Inferior_Petrosal_Sinus
+    400308: S_R_Occipital_Sinus
+    400310: S_R_Sphenoparietal_sinus
+    400312: S_R_Superior_Petrosal_Sinus
+    400314: S_Superior_Saggital_Sinus
+    400316: Skull
+    400318: Spinal Cord Textured
+    400320: Spinal Nuclue CNV
+    400322: Sup Vestib Nucleus
+    400324: Superior Colliculi
+    400326: Superior Longit Fasic
+    400328: Thalamus
+    400330: V_L_Internal_Jugular_Vein
+    400332: V_L_Middle_Meningeal_Vein
+    400334: V_L_Superior_Ophthalmic_Vein
+    400336: V_R_Internal_Jugular_Vein
+    400338: V_R_Middle_Meningeal_Vein
+    400340: V_Superior_Ophthalmic_Vein
+    400342: Vent Cochlear Nucleus
+    400344: White Matter
+    2300000: 3rd Ventricle
+    2300002: 4th Ventricle
+    2300004: A_ASA
+    2300006: A_Basilar_Artery
+    2300008: A_L_ACA
+    2300010: A_L_AICA
+    2300012: A_L_Ascending_Pharyngeal_A_R_Ascending_Pharyngeal
+    2300014: A_L_External_Carotid_A_R_External_Carotid
+    2300016: A_L_Facial_Artery_A_R_Facial_Artery
+    2300018: A_L_Internal_Carotid
+    2300020: A_L_Labyrinthine
+    2300022: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart0
+    2300024: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart1
+    2300026: A_L_MCA
+    2300028: A_L_Occipital_Artery_A_R_Occipital_Artery
+    2300030: A_L_Ophthalmic_Artery
+    2300032: A_L_PCA
+    2300034: A_L_PICA
+    2300036: A_L_Pontine_Artery
+    2300038: A_L_Posterior_Auricular_Artery
+    2300040: A_L_Posterior_Communicating_Artery
+    2300042: A_L_PSA
+    2300044: A_L_Superficial_Temporal_Artery
+    2300046: A_L_Superior_Cerebellar
+    2300048: A_L_Superior_Thyroid_Artery
+    2300050: A_L_Vertebral_Artery
+    2300052: A_R_ACA
+    2300054: A_R_AICA
+    2300056: A_R_Ascending_Pharyngeal
+    2300058: A_R_External_Carotid
+    2300060: A_R_Facial_Artery
+    2300062: A_R_Internal_Carotid
+    2300064: A_R_Labyrinthine
+    2300066: A_R_Lingual_Artery
+    2300068: A_R_Maxillary_Artery_MeshPart0
+    2300070: A_R_Maxillary_Artery_MeshPart1
+    2300072: A_R_MCA
+    2300074: A_R_Occipital_Artery
+    2300076: A_R_Ophthalmic_Artery
+    2300078: A_R_PCA
+    2300080: A_R_PICA
+    2300082: A_R_Pontine_Artery
+    2300084: A_R_Posterior_Auricular_Artery
+    2300086: A_R_Posterior_Communicating_Artery
+    2300088: A_R_Posterior_Meningeal_Branch
+    2300090: A_R_PSA
+    2300092: A_R_Superficial_Temporal_Artery
+    2300094: A_R_Superior_Cerebellar
+    2300096: A_R_Superior_Thyroid_Artery
+    2300098: A_R_Vertebral_Artery
+    2300100: Brainstem
+    2300102: Caudate Nucleus
+    2300104: Cavernous Sinus
+    2300106: Central Canal
+    2300108: Cerebellar Peduncles
+    2300110: Cerebellum- Vermis
+    2300112: Cerebellum-White-Matter_MeshPart0
+    2300114: Cerebellum-White-Matter_MeshPart1
+    2300116: Cerebral Aqueduct
+    2300118: Confluence of SInuses
+    2300120: Corpus Callosum
+    2300122: Corpus Callosum_Body
+    2300124: Corpus Callosum_Genu
+    2300126: Corpus Callosum_Splenium
+    2300128: DorsalCochlearNuc.000
+    2300130: DorsalCochlearNucleus
+    2300132: EW Nucleus
+    2300134: Fornix
+    2300136: Globus Pallidus
+    2300138: Hippocampus
+    2300140: Hypothalamus
+    2300142: Inf. Vestib Nucle.000
+    2300144: Inf. Vestib Nucleus
+    2300146: Inferior Colliculi
+    2300148: Internal Capsule
+    2300150: L Cerebellum- Cortex
+    2300152: L_Brocas
+    2300154: L_Central_Sulcus
+    2300156: L_Cingulate_Gyrus
+    2300158: L_Cortex_textured
+    2300160: L_Frontal_Eye_Fields
+    2300162: L_Frontal_Lobe
+    2300164: L_Lateral_Sulcus
+    2300166: L_Occipital_Lobe
+    2300168: L_Parietal_Lobe
+    2300170: L_Parietoocipital_Sulcus
+    2300172: L_Postcentral_Gyrus
+    2300174: L_Precentral_Gyrus
+    2300176: L_Premotor_Cortex
+    2300178: L_SMA
+    2300180: L_Temporal_Lobe
+    2300182: L_Wernicke's_Area
+    2300184: Lateral Ventricles
+    2300186: Lateral Ventricles_FH
+    2300188: Lateral Ventricles_OH
+    2300190: Lateral Ventricles_Se
+    2300192: Lateral Ventricles_TH
+    2300194: Left Trigeminal N\
+    2300196: Med Vestib Nucleus
+    2300198: N_CNI
+    2300200: N_CNII
+    2300202: N_L_CN_VI
+    2300204: N_L_CNIII
+    2300206: N_L_CNIV
+    2300208: N_L_CNIX
+    2300210: N_L_CNV
+    2300212: N_L_CNVII
+    2300214: N_L_CNVIII
+    2300216: N_L_CNX
+    2300218: N_L_CNXI
+    2300220: N_L_CNXII
+    2300222: N_L_Short_Ciliary_Ganglion
+    2300224: N_R_CN_VI
+    2300226: N_R_CNIII
+    2300228: N_R_CNIV
+    2300230: N_R_CNIX
+    2300232: N_R_CNV
+    2300234: N_R_CNVII
+    2300236: N_R_CNVIII
+    2300238: N_R_CNX
+    2300240: N_R_CNXI
+    2300242: N_R_CNXII
+    2300244: N_R_Short_Ciliary_Ganglion
+    2300246: Nucleus Prepositus
+    2300248: Oculomotor Nucleus
+    2300250: Putamen
+    2300252: R Cerebellum-Cortex
+    2300254: R_Central_Sulcus
+    2300256: R_Cingulate_Gyrus
+    2300258: R_Frontal_Eye_Fields
+    2300260: R_Frontal_Lobe
+    2300262: R_Lateral_Sulcus
+    2300264: R_Occipital_Lobe
+    2300266: R_Parietal_Lobe
+    2300268: R_Parietoocipital_Sulcus
+    2300270: R_Postcentral_Gyrus
+    2300272: R_Precentral_Gyrus
+    2300274: R_Premotor_Cortex
+    2300276: R_SMA
+    2300278: R_Temporal_Lobe
+    2300280: Red Nucleus
+    2300282: S_Basilar_Sinuses
+    2300284: S_Inferior_Saggital_Sinus
+    2300286: S_L_Cavernous_Sinus
+    2300288: S_L_Inferior_Petrosal_Sinus
+    2300290: S_L_Occipital_Sinus
+    2300292: S_L_Sphenoparietal_sinus
+    2300294: S_L_Superior_Petrosal_Sinus
+    2300296: S_R_Cavernous_Sinus
+    2300298: S_R_Inferior_Petrosal_Sinus
+    2300300: S_R_Occipital_Sinus
+    2300302: S_R_Sphenoparietal_sinus
+    2300304: S_R_Superior_Petrosal_Sinus
+    2300306: S_Superior_Saggital_Sinus
+    2300308: Skull
+    2300310: Spinal Cord Textured
+    2300312: Spinal Nuclue CNV
+    2300314: Sup Vestib Nucleus
+    2300316: Superior Colliculi
+    2300318: Superior Longit Fasic
+    2300320: Thalamus
+    2300322: V_L_Internal_Jugular_Vein
+    2300324: V_L_Middle_Meningeal_Vein
+    2300326: V_L_Superior_Ophthalmic_Vein
+    2300328: V_R_Internal_Jugular_Vein
+    2300330: V_R_Middle_Meningeal_Vein
+    2300332: V_Superior_Ophthalmic_Vein
+    2300334: Vent Cochlear Nucleus
+    2300336: White Matter
+    3300000: 3rd Ventricle
+    3300002: 4th Ventricle
+    3300004: A_ASA
+    3300006: A_Basilar_Artery
+    3300008: A_L_ACA
+    3300010: A_L_AICA
+    3300012: A_L_Ascending_Pharyngeal_A_R_Ascending_Pharyngeal
+    3300014: A_L_External_Carotid_A_R_External_Carotid
+    3300016: A_L_Facial_Artery_A_R_Facial_Artery
+    3300018: A_L_Internal_Carotid
+    3300020: A_L_Labyrinthine
+    3300022: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart0
+    3300024: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart1
+    3300026: A_L_MCA
+    3300028: A_L_Occipital_Artery_A_R_Occipital_Artery
+    3300030: A_L_Ophthalmic_Artery
+    3300032: A_L_PCA
+    3300034: A_L_PICA
+    3300036: A_L_Pontine_Artery
+    3300038: A_L_Posterior_Auricular_Artery
+    3300040: A_L_Posterior_Communicating_Artery
+    3300042: A_L_PSA
+    3300044: A_L_Superficial_Temporal_Artery
+    3300046: A_L_Superior_Cerebellar
+    3300048: A_L_Superior_Thyroid_Artery
+    3300050: A_L_Vertebral_Artery
+    3300052: A_R_ACA
+    3300054: A_R_AICA
+    3300056: A_R_Ascending_Pharyngeal
+    3300058: A_R_External_Carotid
+    3300060: A_R_Facial_Artery
+    3300062: A_R_Internal_Carotid
+    3300064: A_R_Labyrinthine
+    3300066: A_R_Lingual_Artery
+    3300068: A_R_Maxillary_Artery_MeshPart0
+    3300070: A_R_Maxillary_Artery_MeshPart1
+    3300072: A_R_MCA
+    3300074: A_R_Occipital_Artery
+    3300076: A_R_Ophthalmic_Artery
+    3300078: A_R_PCA
+    3300080: A_R_PICA
+    3300082: A_R_Pontine_Artery
+    3300084: A_R_Posterior_Auricular_Artery
+    3300086: A_R_Posterior_Communicating_Artery
+    3300088: A_R_Posterior_Meningeal_Branch
+    3300090: A_R_PSA
+    3300092: A_R_Superficial_Temporal_Artery
+    3300094: A_R_Superior_Cerebellar
+    3300096: A_R_Superior_Thyroid_Artery
+    3300098: A_R_Vertebral_Artery
+    3300100: Brainstem
+    3300102: Caudate Nucleus
+    3300104: Cavernous Sinus
+    3300106: Central Canal
+    3300108: Cerebellar Peduncles
+    3300110: Cerebellum- Vermis
+    3300112: Cerebellum-White-Matter_MeshPart0
+    3300114: Cerebellum-White-Matter_MeshPart1
+    3300116: Cerebral Aqueduct
+    3300118: Confluence of SInuses
+    3300120: Corpus Callosum
+    3300122: Corpus Callosum_Body
+    3300124: Corpus Callosum_Genu
+    3300126: Corpus Callosum_Splenium
+    3300128: DorsalCochlearNuc.000
+    3300130: DorsalCochlearNucleus
+    3300132: EW Nucleus
+    3300134: Fornix
+    3300136: Globus Pallidus
+    3300138: Hippocampus
+    3300140: Hypothalamus
+    3300142: Inf. Vestib Nucle.000
+    3300144: Inf. Vestib Nucleus
+    3300146: Inferior Colliculi
+    3300148: Internal Capsule
+    3300150: L Cerebellum- Cortex
+    3300152: L_Brocas
+    3300154: L_Central_Sulcus
+    3300156: L_Cingulate_Gyrus
+    3300158: L_Cortex_textured
+    3300160: L_Frontal_Eye_Fields
+    3300162: L_Frontal_Lobe
+    3300164: L_Lateral_Sulcus
+    3300166: L_Occipital_Lobe
+    3300168: L_Parietal_Lobe
+    3300170: L_Parietoocipital_Sulcus
+    3300172: L_Postcentral_Gyrus
+    3300174: L_Precentral_Gyrus
+    3300176: L_Premotor_Cortex
+    3300178: L_SMA
+    3300180: L_Temporal_Lobe
+    3300182: L_Wernicke's_Area
+    3300184: Lateral Ventricles
+    3300186: Lateral Ventricles_FH
+    3300188: Lateral Ventricles_OH
+    3300190: Lateral Ventricles_Se
+    3300192: Lateral Ventricles_TH
+    3300194: Left Trigeminal N\
+    3300196: Med Vestib Nucleus
+    3300198: N_CNI
+    3300200: N_CNII
+    3300202: N_L_CN_VI
+    3300204: N_L_CNIII
+    3300206: N_L_CNIV
+    3300208: N_L_CNIX
+    3300210: N_L_CNV
+    3300212: N_L_CNVII
+    3300214: N_L_CNVIII
+    3300216: N_L_CNX
+    3300218: N_L_CNXI
+    3300220: N_L_CNXII
+    3300222: N_L_Short_Ciliary_Ganglion
+    3300224: N_R_CN_VI
+    3300226: N_R_CNIII
+    3300228: N_R_CNIV
+    3300230: N_R_CNIX
+    3300232: N_R_CNV
+    3300234: N_R_CNVII
+    3300236: N_R_CNVIII
+    3300238: N_R_CNX
+    3300240: N_R_CNXI
+    3300242: N_R_CNXII
+    3300244: N_R_Short_Ciliary_Ganglion
+    3300246: Nucleus Prepositus
+    3300248: Oculomotor Nucleus
+    3300250: Putamen
+    3300252: R Cerebellum-Cortex
+    3300254: R_Central_Sulcus
+    3300256: R_Cingulate_Gyrus
+    3300258: R_Frontal_Eye_Fields
+    3300260: R_Frontal_Lobe
+    3300262: R_Lateral_Sulcus
+    3300264: R_Occipital_Lobe
+    3300266: R_Parietal_Lobe
+    3300268: R_Parietoocipital_Sulcus
+    3300270: R_Postcentral_Gyrus
+    3300272: R_Precentral_Gyrus
+    3300274: R_Premotor_Cortex
+    3300276: R_SMA
+    3300278: R_Temporal_Lobe
+    3300280: Red Nucleus
+    3300282: S_Basilar_Sinuses
+    3300284: S_Inferior_Saggital_Sinus
+    3300286: S_L_Cavernous_Sinus
+    3300288: S_L_Inferior_Petrosal_Sinus
+    3300290: S_L_Occipital_Sinus
+    3300292: S_L_Sphenoparietal_sinus
+    3300294: S_L_Superior_Petrosal_Sinus
+    3300296: S_R_Cavernous_Sinus
+    3300298: S_R_Inferior_Petrosal_Sinus
+    3300300: S_R_Occipital_Sinus
+    3300302: S_R_Sphenoparietal_sinus
+    3300304: S_R_Superior_Petrosal_Sinus
+    3300306: S_Superior_Saggital_Sinus
+    3300308: Skull
+    3300310: Spinal Cord Textured
+    3300312: Spinal Nuclue CNV
+    3300314: Sup Vestib Nucleus
+    3300316: Superior Colliculi
+    3300318: Superior Longit Fasic
+    3300320: Thalamus
+    3300322: V_L_Internal_Jugular_Vein
+    3300324: V_L_Middle_Meningeal_Vein
+    3300326: V_L_Superior_Ophthalmic_Vein
+    3300328: V_R_Internal_Jugular_Vein
+    3300330: V_R_Middle_Meningeal_Vein
+    3300332: V_Superior_Ophthalmic_Vein
+    3300334: Vent Cochlear Nucleus
+    3300336: White Matter
+    4300000: R_Temporal_Lobe
+    4300002: R_SMA
+    4300004: R_Premotor_Cortex
+    4300006: R_Precentral_Gyrus
+    4300008: R_Postcentral_Gyrus
+    4300010: R_Parietoocipital_Sulcus
+    4300012: R_Parietal_Lobe
+    4300014: R_Occipital_Lobe
+    4300016: R_Lateral_Sulcus
+    4300018: R_Frontal_Lobe
+    4300020: R_Frontal_Eye_Fields
+    4300022: R_Cingulate_Gyrus
+    4300024: R_Central_Sulcus
+    4300026: L_Wernicke's_Area
+    4300028: L_Temporal_Lobe
+    4300030: L_Premotor_Cortex
+    4300032: L_SMA
+    4300034: L_Precentral_Gyrus
+    4300036: L_Postcentral_Gyrus
+    4300038: L_Parietoocipital_Sulcus
+    4300040: L_Parietal_Lobe
+    4300042: L_Occipital_Lobe
+    4300044: L_Lateral_Sulcus
+    4300046: L_Frontal_Eye_Fields
+    4300048: L_Cingulate_Gyrus
+    4300050: L_Central_Sulcus
+    4300052: L_Brocas
+    4300054: L_Frontal_Lobe
+    4300056: Brainstem
+    4300058: Skull
+    4300060: N_R_CNIX
+    4300062: A_R_ACA
+    4300064: N_CNII
+    4300066: N_R_Short_Ciliary_Ganglion
+    4300068: N_CNI
+    4300070: N_R_CNV
+    4300072: S_R_Sphenoparietal_sinus
+    4300074: A_R_Posterior_Communicating_Artery
+    4300076: A_R_Lingual_Artery
+    4300078: S_L_Cavernous_Sinus
+    4300080: N_L_CNVII
+    4300082: N_L_CNX
+    4300084: A_R_Pontine_Artery
+    4300086: A_L_Superficial_Temporal_Artery
+    4300088: A_R_Vertebral_Artery
+    4300090: N_L_CNIX
+    4300092: N_R_CNX
+    4300094: A_L_Occipital_Artery_A_R_Occipital_Artery
+    4300096: A_R_Posterior_Meningeal_Branch
+    4300098: A_R_Ophthalmic_Artery
+    4300100: V_Superior_Ophthalmic_Vein
+    4300102: A_R_AICA
+    4300104: A_R_PICA
+    4300106: A_L_PCA
+    4300108: N_L_CN_VI
+    4300110: A_L_Internal_Carotid
+    4300112: A_L_ACA
+    4300114: N_R_CNIV
+    4300116: S_Basilar_Sinuses
+    4300118: N_R_CNXII
+    4300120: A_R_PCA
+    4300122: A_R_Maxillary_Artery_MeshPart0
+    4300124: A_R_Maxillary_Artery_MeshPart1
+    4300126: A_L_Ascending_Pharyngeal_A_R_Ascending_Pharyngeal
+    4300128: A_R_Facial_Artery
+    4300130: S_L_Inferior_Petrosal_Sinus
+    4300132: N_L_CNIII
+    4300134: S_L_Sphenoparietal_sinus
+    4300136: V_R_Middle_Meningeal_Vein
+    4300138: V_L_Superior_Ophthalmic_Vein
+    4300140: S_Inferior_Saggital_Sinus
+    4300142: A_L_PICA
+    4300144: N_L_CNV
+    4300146: A_L_PSA
+    4300148: A_L_Ophthalmic_Artery
+    4300150: A_L_AICA
+    4300152: A_R_Occipital_Artery
+    4300154: A_L_Facial_Artery_A_R_Facial_Artery
+    4300156: A_Basilar_Artery
+    4300158: N_L_CNIV
+    4300160: S_R_Inferior_Petrosal_Sinus
+    4300162: A_L_MCA
+    4300164: V_L_Middle_Meningeal_Vein
+    4300166: A_R_Superficial_Temporal_Artery
+    4300168: A_L_Superior_Thyroid_Artery
+    4300170: N_R_CNIII
+    4300172: A_R_External_Carotid
+    4300174: A_ASA
+    4300176: A_R_Internal_Carotid
+    4300178: N_R_CNVII
+    4300180: S_R_Superior_Petrosal_Sinus
+    4300182: S_Superior_Saggital_Sinus
+    4300184: A_R_PSA
+    4300186: A_L_Labyrinthine
+    4300188: A_L_Posterior_Communicating_Artery
+    4300190: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart0
+    4300192: A_L_Maxillary_Artery_A_R_Maxillary_Artery_MeshPart1
+    4300194: A_L_External_Carotid_A_R_External_Carotid
+    4300196: A_R_MCA
+    4300198: V_R_Internal_Jugular_Vein
+    4300200: N_L_CNXI
+    4300202: N_R_CNVIII
+    4300204: N_L_CNVIII
+    4300206: V_L_Internal_Jugular_Vein
+    4300208: A_R_Superior_Cerebellar
+    4300210: S_L_Occipital_Sinus
+    4300212: A_R_Posterior_Auricular_Artery
+    4300214: A_L_Vertebral_Artery
+    4300216: N_R_CN_VI
+    4300218: A_L_Pontine_Artery
+    4300220: N_L_CNXII
+    4300222: A_L_Posterior_Auricular_Artery
+    4300224: N_R_CNXI
+    4300226: A_R_Labyrinthine
+    4300228: A_R_Superior_Thyroid_Artery
+    4300230: S_R_Occipital_Sinus
+    4300232: S_R_Cavernous_Sinus
+    4300234: A_L_Superior_Cerebellar
+    4300236: A_R_Ascending_Pharyngeal
+    4300238: S_L_Superior_Petrosal_Sinus
+    4300240: N_L_Short_Ciliary_Ganglion
+    4300242: Cerebellum- Vermis
+    4300244: Cerebellum-White-Matter_MeshPart0
+    4300246: Cerebellum-White-Matter_MeshPart1
+    4300248: L Cerebellum- Cortex
+    4300250: R Cerebellum-Cortex
+    4300252: L_Cortex_textured
+    4300254: Cerebellar Peduncles
+    4300256: Superior Longit Fasic
+    4300258: Central Canal
+    4300260: Lateral Ventricles_OH
+    4300262: Lateral Ventricles_TH
+    4300264: Lateral Ventricles_FH
+    4300266: Lateral Ventricles_Se
+    4300268: Corpus Callosum_Splenium
+    4300270: Corpus Callosum_Genu
+    4300272: Corpus Callosum_Body
+    4300274: White Matter
+    4300276: 3rd Ventricle
+    4300278: Lateral Ventricles
+    4300280: Internal Capsule
+    4300282: Hypothalamus
+    4300284: Hippocampus
+    4300286: Fornix
+    4300288: Cerebral Aqueduct
+    4300290: 4th Ventricle
+    4300292: Putamen
+    4300294: Globus Pallidus
+    4300296: Caudate Nucleus
+    4300298: Spinal Cord Textured
+    4300300: Left Trigeminal N\
+    4300302: Corpus Callosum
+    4300304: Inferior Colliculi
+    4300306: Superior Colliculi
+    4300308: Thalamus
+    4300310: Confluence of SInuses
+    4300312: Cavernous Sinus
+    4300314: DorsalCochlearNuc.000
+    4300316: Inf. Vestib Nucle.000
+    4300318: Vent Cochlear Nucleus
+    4300320: Sup Vestib Nucleus
+    4300322: Spinal Nuclue CNV
+    4300324: Red Nucleus
+    4300326: Oculomotor Nucleus
+    4300328: Nucleus Prepositus
+    4300330: Med Vestib Nucleus
+    4300332: Inf. Vestib Nucleus
+    4300334: EW Nucleus
+    4300336: DorsalCochlearNucleus
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

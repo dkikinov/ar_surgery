@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ButtonImage" size="1.000000 1.000000" />
+    <ImageTarget name="MedicArtLogo" size="3.500000 3.468278" />
+    <ImageTarget name="MedicArtTrackerLogo" size="1.000000 1.000000" />
+    <ImageTarget name="KAIJE" size="0.100000 0.100441" />
+    <ImageTarget name="HIRO" size="0.100000 0.100691" />
+    <ImageTarget name="water" size="3.000000 1.996364" />
+    <ImageTarget name="rocks" size="0.100000 0.066667" />
+  </Tracking>
+</QCARConfig>
